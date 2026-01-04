@@ -18,3 +18,6 @@
 <li><b>Note</b>: You must pull the model first from your terminal (ex. <code>ollama pull qwen2.5-coder:7b</code>)</li>
 <li>Use <b>Alt+Enter</b> or click the lightbulb on the left of a generic <code>Exception</code> keyword and select <b>Choose best exception type (AI)</b>.</li>
 </ol>
+
+<h3>Other stuff</h3>
+<p>This project uses the MIT license</p>
