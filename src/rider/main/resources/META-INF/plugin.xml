@@ -13,8 +13,6 @@
     
     <p>It analyzes your code's context and the error message provided in a generic <code>throw new Exception("...")</code> statement to suggest a more precise exception from the standard .NET library (ex., <code>ArgumentNullException</code>, <code>InvalidOperationException</code>, <code>FileNotFoundException</code>, etc.).</p>
 
-    <img src="https://raw.githubusercontent.com/wyteroze/ExceptionHelper/master/docs/demo.gif" alt="ExceptionHelper in Action" />
-
     <h3>Features:</h3>
     <ul>
       <li><b>AI powered suggestions</b>: Uses a local LLM to analyze your code and suggest the best exception type.</li>
