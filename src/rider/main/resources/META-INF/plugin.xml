@@ -26,7 +26,7 @@
     <ol>
       <li>Ensure <a href="https://ollama.com/">Ollama</a> is installed and running.</li>
       <li>Access the plugin's settings in `Settings → Tools → Exception Helper to choose the model you want to use`</li>
-      <li><b>Note</b>: You must pull the model first from your terminal (ex. <code>ollama pull qwen2.5-coder:7b</code>)</li>
+      <li><b>Note</b>: You must pull the model first from your terminal (ex. <code>ollama pull qwen2.5-coder:7b</code>) and make sure it's served (<code>ollama serve</code>)</li>
       <li>Use <b>Alt+Enter</b> or click the lightbulb on the left of a generic <code>Exception</code> keyword and select <b>Choose best exception type (AI)</b>.</li>
     </ol>
     ]]>
