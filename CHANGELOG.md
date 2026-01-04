@@ -6,3 +6,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## 1.0.0
 - Initial version
+
+## 1.0.1
+- More accurate wording ("uses AI to help you choose the best C# exception types for your situation" to "uses AI to choose the best C# exception type for your situation")

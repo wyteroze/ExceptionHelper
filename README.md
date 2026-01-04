@@ -1,5 +1,5 @@
 # ExceptionHelper 
-<p>ExceptionHelper is a JetBrains Rider and ReSharper plugin that uses AI to help you choose the best C# exception types for your situation.</p>
+<p>ExceptionHelper is a JetBrains Rider and ReSharper plugin that uses AI to choose the best C# exception type for your situation.</p>
 
 <p>It analyzes your code's context and the error message provided in a generic <code>throw new Exception("...")</code> statement to suggest a more precise exception from the standard .NET library (ex., <code>ArgumentNullException</code>, <code>InvalidOperationException</code>, <code>FileNotFoundException</code>, etc.).</p>
 
